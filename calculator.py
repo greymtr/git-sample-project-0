@@ -6,7 +6,7 @@
 # Returns output of this operation
 
 a=int(input("Enter number 1 : "))
-o=int(input("Enter operator : "))
+o=input("Enter operator : ")
 b=int(input("Enter number 2 : "))
 
 if o[0] in [ '+','-','*','/' ]:
